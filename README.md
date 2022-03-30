@@ -1,2 +1,2 @@
 # misc
-miscelleneous
+miscellaneous
